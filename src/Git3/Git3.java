@@ -15,7 +15,7 @@ public class Git3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-         String exampleString = "This is just a sample string3";
+         String exampleString = "This is just a sample string4";
 
         int stringLength = exampleString.length();
 
